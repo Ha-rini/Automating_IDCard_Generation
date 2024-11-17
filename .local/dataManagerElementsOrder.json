@@ -1,0 +1,60 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CellValue&Sequence_5",
+        "emp_name&Sequence_5",
+        "emp_Department&Sequence_5",
+        "emp_email&Sequence_5",
+        "depart2&Sequence_5",
+        "emp_code&Sequence_5",
+        "emp_DOJ&Sequence_5",
+        "emp_bg&Sequence_5",
+        "photo_exists&Sequence_8",
+        "responce&Sequence_1",
+        "image_path&Sequence_1",
+        "username&Sequence_1",
+        "password&Sequence_1",
+        "missing&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "TestWord.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "doj&Sequence_1",
+        "depart&Sequence_1",
+        "name&Sequence_1",
+        "missing_feild&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "attechment&Sequence_1",
+        "Photo_path&Sequence_1",
+        "photoExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
