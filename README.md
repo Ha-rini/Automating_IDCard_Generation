@@ -1,7 +1,3 @@
-It looks like you're using markdown formatting for the README, but the line breaks are not being recognized. To properly format the text with line breaks and paragraphs, you can use two spaces at the end of a line or simply separate sections with blank lines. Here's an updated version with correct formatting:
-
----
-
 # Automating_IDCard_Generation
 
 ## Overview  
@@ -26,7 +22,3 @@ This project automates the process of generating personalized ID cards using UiP
 4. **Generate and Save ID Card**: The ID card is saved as an image file using the Save Image activity.  
 5. **Output Distribution**: The ID card is emailed to the user or saved in a designated folder using the Send SMTP Mail Message and Copy File activities.  
 6. **Error Handling**: Any exceptions during the process are handled using Try-Catch to ensure smooth execution.
-
----
-
-This updated version uses proper markdown conventions to ensure line breaks are visible and sections are clearly separated. The extra line breaks and indentation will help when viewed in a markdown viewer or a repository like GitHub.
