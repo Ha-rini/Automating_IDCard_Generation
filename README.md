@@ -1,4 +1,6 @@
 # Automating_IDCard_Generation
+
+
 Overview
 This project automates the process of generating personalized ID cards using UiPath Studio. The workflow gathers data from an Excel sheet, processes images (e.g., employee photos), and generates ID cards with dynamic fields like name, designation, and ID number. The final ID cards are saved as image files and distributed via email.
 
